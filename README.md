@@ -33,7 +33,7 @@ Este repositorio contiene un **chatbot avanzado** construido con el modelo **GPT
 
 - **Modelo GPT-3.5 Turbo**: Ofrece capacidades avanzadas de generación de lenguaje natural, entrenado en una amplia variedad de datos para garantizar precisión y contexto en las respuestas.  
 - **Backend**:  
-  - API de Open AI para manejar las solicitudes al modelo de OpenAI  
+  - API de Open AI para manejar las solicitudes al modelo.
 ---
 **💡 Ejemplo de Flujo**
 1. Inicio de la conversación
